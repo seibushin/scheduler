@@ -10,7 +10,7 @@ Additionally draw the conflict graph to see the conflicts. The end of a line is 
 ![Image of Scheduler - Conflict Graph](https://github.com/seibushin/scheduler/blob/master/conflict.png)
 
 ## Build
-The project can be build using 'gradlew shadowJar'. The created jar 'scheduler-1.0.jar' consists of all used libaries and can simple be executed.
+The project can be build using `gradlew shadowJar`. The created jar `scheduler-1.0.jar` consists of all used libaries and can simple be executed.
 
 ## Examples
 ### not CSR, VSR
