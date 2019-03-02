@@ -7,7 +7,7 @@ Use this tool to check if a schedule is serializable (conflict, view, finalstate
 Additionally draw the conflict graph to see the conflicts. The end of a line is marked with a red dot.
 
 ![Image of Scheduler - GUI](https://github.com/seibushin/scheduler/blob/master/snap.png)
-![Image of Scheduler - Conflict Graph](https://github.com/seibushin/scheduler/blob/master/snap.png)
+![Image of Scheduler - Conflict Graph](https://github.com/seibushin/scheduler/blob/master/conflict.png)
 
 ## Build
 The project can be build using 'gradlew shadowJar'. The created jar 'scheduler-1.0.jar' consists of all used libaries and can simple be executed.
